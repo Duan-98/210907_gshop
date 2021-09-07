@@ -1,5 +1,5 @@
 /*
-间接更新state的多个方法的对象
+包含多个基于state的getter计算属性的对象
  */
 export default {
 
